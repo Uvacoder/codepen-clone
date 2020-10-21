@@ -7,7 +7,6 @@ import "codemirror/mode/css/css";
 import { Controlled } from "react-codemirror2";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCompressAlt, faExpandAlt } from "@fortawesome/free-solid-svg-icons";
-// import {FontAwesomeIcon } from '@fortawesome/free-solid-svg-icons';
 
 const Editor = ({ displayName, language, value, onChange }) => {
 	const [open, setOpen] = useState(true);
