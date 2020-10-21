@@ -1,2 +1,3 @@
 # Codepen-Clone
-Created with CodeSandbox
+
+This is a simple React project.
